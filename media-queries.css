@@ -1,0 +1,46 @@
+@media only screen and (max-width: 992px) {
+    .navbar {
+        width: 1325px;
+    }
+    .part1 {
+        width: 1345px;
+        height: 400px;
+    }
+    .kontakt {
+    }
+    .button1 {
+        padding: 15px 0px 50px 0px;
+        font-size: 30px;
+        margin: 30px 0px 0px 0px;
+    }
+    .zainteresowania {
+        padding: 0px 0px 0px 0px;
+        margin: 0px 0px 0px 0px;
+    }
+    .gitara {
+        padding: 0px 0px 0px 160px;
+        margin: 0px 0px 0px 0px;
+    }
+    .part3 {
+        width: 1345px;
+        padding: 200px 0px 0px 0px;
+        margin: 0px 0px 0px 0px;
+    }
+    .game {
+        width: 1185px;
+    }
+    .part4 {
+        width: 1345px;
+        padding: 0px 0px 100px 0px;
+        margin: 0px 0px 0px 0px;
+    }
+    h2 {
+        margin: 0px 0px 0px 0px;
+    }
+    .part5 {
+        width: 1345px;
+    }
+    .part6 {
+        width: 1345px;
+    }
+}
